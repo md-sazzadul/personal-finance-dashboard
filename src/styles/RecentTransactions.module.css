@@ -1,0 +1,22 @@
+.transactions {
+  background-color: #f8f6f4;
+  padding: 20px;
+  border-radius: 8px;
+  color: #003049;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.expense {
+  color: #d62828;
+}
+.income {
+  color: #2a9d8f;
+}
